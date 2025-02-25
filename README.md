@@ -1,6 +1,6 @@
 Description de la certification
 # Bloc 1 du diplôme d'état - RNCP35288 - Niveau 6
-Intitulé du bloc:
+Intitulé du bloc :
 # Construction et alimentation d'une infrastructure de gestion de données
 
 Le bloc 1 de la certification CDSD atteste des compétences suivantes :

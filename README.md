@@ -1,4 +1,4 @@
-# 🇫🇷 Best Travel Destinations in France — Data Pipeline Project
+# Best Travel Destinations in France — Data Pipeline Project
 
 This project aims to build a comprehensive pipeline to identify the **best travel destinations in France** based on weather, enriching the data with information from **Booking.com** and then storing it in **AWS S3** and **PostgreSQL (RDS)**.
 

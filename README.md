@@ -140,6 +140,7 @@ PORT=5432
 
 * Some APIs have a **query quota** or require a key (OpenWeatherMap)
 * Booking.com does not offer an official public API — scraping must comply with their usage policy.
+* File `Data_storage.ipynb` file is marked `invalid` just because of image copy-paste.
 
 ---
 
